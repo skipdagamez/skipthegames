@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://skipthegames.games/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://skipthegames.games/post-sitemap.xml</loc>
+		<lastmod>2024-09-03T20:17:44+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://skipthegames.games/page-sitemap1.xml</loc>
+		<lastmod>2024-09-14T17:15:28+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://skipthegames.games/page-sitemap2.xml</loc>
+		<lastmod>2024-09-14T16:18:42+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://skipthegames.games/page-sitemap3.xml</loc>
+		<lastmod>2024-09-14T15:43:21+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
