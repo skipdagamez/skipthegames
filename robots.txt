@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /access/
-Disallow: /access-site
-
-Sitemap: https://skipthegames.games/sitemap.xml
